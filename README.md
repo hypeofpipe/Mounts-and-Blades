@@ -6,6 +6,12 @@ Would you like to play M&B (campaign) in multiplayer? ⚔️
 
 Did you ever wanted to play M&B in multiplayer? Yeah, I wanted too. I've Googled it, but still no one made it! Let's do it!
 
+## Instalation 🛠️
+
+Build: `./scripts/build.sh`
+Run: `./scripts/run.sh`
+Run dev: `./scripts/run:dev.sh`
+
 ## Proof of concept 🧾
 
 Proof of concept should be able to:
