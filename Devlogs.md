@@ -1,0 +1,2 @@
+Fri 00:54 8 February 2019:
+The thing is very difficult, especially on MacOS as I read on a blogpost. I will try to read about that more, but it seems that profiling on MacOS by itself it is a hard thing and I would rather try to do that on Windows / Linux.
