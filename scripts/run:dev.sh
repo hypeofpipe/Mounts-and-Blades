@@ -1,1 +1,1 @@
-./scripts/./build.sh && ./scripts/./run.sh
+cargo watch -x check -x build -x run
